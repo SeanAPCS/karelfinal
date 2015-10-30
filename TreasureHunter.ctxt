@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ countBeepers()
+comment1.params=
+comment1.target=void\ moveToNextClue()
+comment2.params=
+comment2.target=void\ work()
+comment3.params=
+comment3.target=void\ faceNorth()
+comment4.params=
+comment4.target=void\ faceSouth()
+comment5.params=
+comment5.target=void\ faceEast()
+comment6.params=
+comment6.target=void\ faceWest()
+numComments=7
